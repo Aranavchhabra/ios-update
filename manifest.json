@@ -1,0 +1,14 @@
+{
+  "name": "Software Update",
+  "short_name": "Settings",
+  "start_url": "/ios-update/",
+  "scope": "/ios-update/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/ios-update/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
